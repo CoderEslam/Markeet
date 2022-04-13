@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329592553262",
+    "project_id": "markeet-b4455",
+    "storage_bucket": "markeet-b4455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329592553262:android:0ee34bac0ff0dc1e0e04bf",
+        "android_client_info": {
+          "package_name": "com.app.markeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329592553262-i6cp2m5hbclf5o64gkotspr819ebcefn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABWPyZaJyWWQreL2lxxtuPU6UtKF2Scao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329592553262-i6cp2m5hbclf5o64gkotspr819ebcefn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

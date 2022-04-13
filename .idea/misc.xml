@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_category_details.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_checkout.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_dialog_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_full_screen_image.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_instruction.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_news_info.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_news_info_details.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_notifications.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_order_history.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_product_details.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_search.xml" value="0.33" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_shopping_cart.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_splash.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/activity_wishlist.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/dialog_cart_option.xml" value="0.19166666666666668" />
+        <entry key="..\:/New folder (27)/markeet-40/android_project/Markeet/app/src/main/res/layout/item_shipping.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
